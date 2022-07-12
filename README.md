@@ -5,7 +5,7 @@ Hey team, taking down some of the key features I implemented during my time with
 
 ## Initial Implementation 
 
-I started by git cloning the example-web-checkout repo here: https://github.com/primer-io/example-web-checkout. Following the steps, I connected my initial checkout flow and created some test payments from the basic checkout modal. 
+I started by git cloning the example-web-checkout repo, connecting my API Keys from Primer Dashboard, then started the server on port 8880 using npm. I then connected my initial checkout flow and created some test payments from the basic checkout modal. 
 
 
 ## Adding eCommerce framework
